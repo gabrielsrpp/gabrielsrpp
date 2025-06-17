@@ -16,6 +16,7 @@
 ### Basic/intermediary Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-2C2F33?style=for-the-badge&logo=html5&labelColor=2C2F33&color=7289DA)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2C2F33?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=2C2F33&color=7289DA)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=2C2F33&color=7289DA)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-2C2F33?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=2C2F33&color=7289DA)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-2C2F33?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=2C2F33&color=7289DA)&nbsp;
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&labelColor=2C2F33&color=7289DA)&nbsp;
