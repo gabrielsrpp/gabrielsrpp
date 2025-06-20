@@ -26,11 +26,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-2C2F33?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=2C2F33&color=7289DA)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C2F33?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=2C2F33&color=7289DA)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-2C2F33?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=2C2F33&color=7289DA)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-2C2F33?style=for-the-badge&logo=github&labelColor=2C2F33&color=7289DA)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-2C2F33?style=for-the-badge&logo=windows&labelColor=2C2F33&color=7289DA)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-2C2F33?style=for-the-badge&logo=microsoft-office&labelColor=2C2F33&color=7289DA)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
 
