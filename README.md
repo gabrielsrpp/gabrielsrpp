@@ -22,7 +22,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&labelColor=2C2F33&color=7289DA)&nbsp;
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=2C2F33&color=7289DA)&nbsp;
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=2C2F33&color=7289DA)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=2C2F33&color=7289DA)&nbsp;
+![NodeJS]([https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=2C2F33&color=7289DA](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white))&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
  
