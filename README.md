@@ -14,9 +14,8 @@
 </p>
  
 ### Basic/intermediary Knowledge:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=2C2F33&color=7289DA)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-2C2F33?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=2C2F33&color=7289DA)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-2C2F33?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=2C2F33&color=7289DA)&nbsp;
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&labelColor=2C2F33&color=7289DA)&nbsp;
@@ -33,6 +32,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-2C2F33?style=for-the-badge&logo=github&labelColor=2C2F33&color=7289DA)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-2C2F33?style=for-the-badge&logo=windows&labelColor=2C2F33&color=7289DA)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-2C2F33?style=for-the-badge&logo=microsoft-office&labelColor=2C2F33&color=7289DA)&nbsp;
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
