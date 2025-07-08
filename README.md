@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielsrpp&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
  
-### Basic/intermediary Knowledge:
+###
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
