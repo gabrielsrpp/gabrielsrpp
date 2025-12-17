@@ -7,9 +7,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrpp&bg_color=2C2F33&color=7289DA&line=99AAB5&point=5865F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielsrpp&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
  
 ###
 
