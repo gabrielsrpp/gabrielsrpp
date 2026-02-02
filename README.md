@@ -5,8 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsrpp&layout=compact&hide_border=true&title_color=7289DA&text_color=7289DA&bg_color=2C2F33" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrpp&bg_color=2C2F33&color=7289DA&line=99AAB5&point=5865F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
  
 ###
